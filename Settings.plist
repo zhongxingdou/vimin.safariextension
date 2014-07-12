@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<array>
+	<dict>
+		<key>DefaultValue</key>
+		<string>dsfajklgh</string>
+		<key>Key</key>
+		<string>hintText</string>
+		<key>Title</key>
+		<string>Hint Text</string>
+		<key>Type</key>
+		<string>TextField</string>
+	</dict>
+	<dict>
+		<key>DefaultValue</key>
+		<string>下一页|后一页|next|&gt;|→|»|≫|&gt;&gt;|more</string>
+		<key>Key</key>
+		<string>nextPageText</string>
+		<key>Title</key>
+		<string>Next Page Text</string>
+		<key>Type</key>
+		<string>TextField</string>
+	</dict>
+	<dict>
+		<key>DefaultValue</key>
+		<string>上一页|前一页|prev|previous|back|&lt;|←|«|≪|&lt;&lt;</string>
+		<key>Key</key>
+		<string>prevPageText</string>
+		<key>Title</key>
+		<string>Previous Page Text</string>
+		<key>Type</key>
+		<string>TextField</string>
+	</dict>
+</array>
+</plist>
